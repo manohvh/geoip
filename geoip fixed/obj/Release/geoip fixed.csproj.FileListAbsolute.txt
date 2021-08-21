@@ -1,0 +1,10 @@
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\bin\Release\geoip fixed.exe.config
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\bin\Release\geoip fixed.exe
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\bin\Release\geoip fixed.pdb
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip fixed.csproj.AssemblyReference.cache
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip_fixed.Form1.resources
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip_fixed.Properties.Resources.resources
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip fixed.csproj.GenerateResource.cache
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip fixed.csproj.CoreCompileInputs.cache
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip fixed.exe
+C:\Users\skide\OneDrive\Desktop\tool\c# apki\geoip fixed\geoip fixed\obj\Release\geoip fixed.pdb
